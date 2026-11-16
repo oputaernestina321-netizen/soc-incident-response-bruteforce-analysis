@@ -1,4 +1,4 @@
-# Project 7: SOC Incident Response & Authentication Log Analysis
+SOC Incident Response & Authentication Log Analysis
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Focus](https://img.shields.io/badge/Focus-SOC_Incident_Response-blue)
